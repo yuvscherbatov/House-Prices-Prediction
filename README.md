@@ -1,4 +1,4 @@
-# Titanic Survival Prediction
+# House Prices Prediction
 Это пет-проект по прогнозированию цен на дома в городе Эймс, штат Айова.
 ## Данные
 [Данные](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview) для проекта взяты с Kaggle. Описание признаков содержится в файле **data_description.txt**.
